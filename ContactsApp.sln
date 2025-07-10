@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.App", "src\Contacts.App\Contacts.App.csproj", "{53E6472D-868B-4D55-A116-BD3B0C6BB2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.UnitTests", "tests\Contacts.UnitTests\Contacts.UnitTests.csproj", "{1CD4A8C2-94B7-44C8-BA37-8D7D1B403656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E6472D-868B-4D55-A116-BD3B0C6BB2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E6472D-868B-4D55-A116-BD3B0C6BB2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E6472D-868B-4D55-A116-BD3B0C6BB2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E6472D-868B-4D55-A116-BD3B0C6BB2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD4A8C2-94B7-44C8-BA37-8D7D1B403656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD4A8C2-94B7-44C8-BA37-8D7D1B403656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD4A8C2-94B7-44C8-BA37-8D7D1B403656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD4A8C2-94B7-44C8-BA37-8D7D1B403656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
